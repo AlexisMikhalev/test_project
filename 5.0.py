@@ -170,8 +170,8 @@
 # def positive(x): return x > 0
 #
 # print(some_list)
-# print(list(map(pow2, filter(positive, some_list))))
 
+print("lubimaia jena")
 # d = {2 : "c", 1 : "d", 4 : "a", 3 : "b"}
 # print(dict(sorted(d.items())))
 # print(sorted(d.items(), key=lambda x: x[0]))
