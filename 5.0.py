@@ -192,3 +192,6 @@ print("lubimaia jena")
 a = ["это", "маленький", "текст", "обидно"]
 
 print("lubimaia jena")
+
+print("Love wife")
+
